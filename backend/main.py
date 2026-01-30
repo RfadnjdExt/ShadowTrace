@@ -6,11 +6,11 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.routers import chat, analysis
-from app.database import engine
-from app import models
+from app.database import engine, Base
+from app.models import ChatSession, Message, Gap, Inference  # noqa: F401
 
 # Create database tables
-models.Base.metadata.create_all(bind=engine)
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI(
     title="ShadowTrace API",
