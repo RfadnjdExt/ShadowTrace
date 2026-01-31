@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS inferences (
     predicted_sender VARCHAR(255),
     confidence_score FLOAT NOT NULL,
     context_anchors TEXT, -- JSON array
-    model_used VARCHAR(100) NOT NULL,
+    model_used VARCHAR(255) NOT NULL,
     reasoning TEXT,
     hallucination_flags TEXT, -- JSON array
     verified VARCHAR(20) DEFAULT 'pending',
