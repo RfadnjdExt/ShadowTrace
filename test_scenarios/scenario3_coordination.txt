@@ -1,0 +1,7 @@
+[30/01/2026, 20:00:00] Dewi: Kamu dimana sekarang?
+[30/01/2026, 20:00:30] Rudi: Di rumah, kenapa?
+[30/01/2026, 20:01:00] Dewi: Mau ajak kamu nonton film nanti malam
+
+[30/01/2026, 20:30:00] Rudi: Aku sudah sampai di bioskop
+[30/01/2026, 20:30:15] Dewi: Oke aku juga baru parking
+

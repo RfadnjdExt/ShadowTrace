@@ -1,0 +1,8 @@
+[30/01/2026, 14:00:00] Siti: Bos, saya mau minta izin besok
+[30/01/2026, 14:00:30] Manager: Untuk apa?
+[30/01/2026, 14:01:00] Siti: Ada urusan keluarga mendadak
+[30/01/2026, 14:01:30] Manager: Besok ada meeting penting jam 9
+
+[30/01/2026, 14:10:00] Manager: Oke saya approve
+[30/01/2026, 14:10:30] Siti: Terima kasih banyak pak
+

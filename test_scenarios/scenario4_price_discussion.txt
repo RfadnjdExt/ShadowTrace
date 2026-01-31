@@ -1,0 +1,8 @@
+[30/01/2026, 10:00:00] Anwar: Bro, lo tau ga harga barang itu?
+[30/01/2026, 10:00:30] Joko: Yang mana?
+[30/01/2026, 10:01:00] Anwar: Yang kemarin lo bilang, yang dari supplier baru
+
+[30/01/2026, 10:05:00] Anwar: Mahal juga ya ternyata
+[30/01/2026, 10:05:30] Joko: Iya tapi kualitasnya bagus
+[30/01/2026, 10:06:00] Anwar: Oke deh, gue ambil 10 unit aja dulu
+
