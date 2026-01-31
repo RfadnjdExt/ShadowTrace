@@ -10,6 +10,7 @@ python-multipart==0.0.22
 alembic==1.18.3
 httpx==0.28.1
 python-dateutil==2.9.0
+google-generativeai==0.8.6
 
 # Testing
 pytest==9.0.2
